@@ -1,0 +1,16 @@
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\bin\Debug\BaiTapLonB-QT.exe.config
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\obj\Debug\BaiTapLonB-QT.csprojResolveAssemblyReference.cache
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\obj\Debug\BaiTapLonB_QT.Properties.Resources.resources
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\obj\Debug\BaiTapLonB-QT.csproj.GenerateResource.Cache
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\obj\Debug\BaiTapLonB_QT.FormB1.resources
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\bin\Debug\BaiTapLonB-QT.exe
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\bin\Debug\BaiTapLonB-QT.pdb
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\obj\Debug\BaiTapLonB-QT.exe
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\obj\Debug\BaiTapLonB-QT.pdb
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\obj\Debug\BaiTapLonB_QT.FormB2.resources
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\obj\Debug\BaiTapLonB_QT.FormB3.resources
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\obj\Debug\BaiTapLonB_QT.FormB4.resources
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\obj\Debug\BaiTapLonB_QT.FormB5.resources
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\obj\Debug\BaiTapLonB_QT.FormB6.resources
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\obj\Debug\BaiTapLonB_QT.FormB7.resources
+D:\Bài tập\BaiTapLonB-QT\BaiTapLonB-QT\obj\Debug\BaiTapLonB_QT.MainForm.resources
