@@ -1,0 +1,13 @@
+D:\Bài tập\BaiTapLonA\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\Bài tập\BaiTapLonA\BaiTapLon\obj\Debug\BaiTapLon.csprojResolveAssemblyReference.cache
+D:\Bài tập\BaiTapLonA\BaiTapLon\obj\Debug\BaiTapLonA.MainForm.resources
+D:\Bài tập\BaiTapLonA\BaiTapLon\obj\Debug\BaiTapLonA.FormA1.resources
+D:\Bài tập\BaiTapLonA\BaiTapLon\obj\Debug\BaiTapLonA.FormA2.resources
+D:\Bài tập\BaiTapLonA\BaiTapLon\obj\Debug\BaiTapLonA.FormA3.resources
+D:\Bài tập\BaiTapLonA\BaiTapLon\obj\Debug\BaiTapLonA.FormA4.resources
+D:\Bài tập\BaiTapLonA\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\Bài tập\BaiTapLonA\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.Cache
+D:\Bài tập\BaiTapLonA\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\Bài tập\BaiTapLonA\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\Bài tập\BaiTapLonA\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\Bài tập\BaiTapLonA\BaiTapLon\obj\Debug\BaiTapLon.pdb
