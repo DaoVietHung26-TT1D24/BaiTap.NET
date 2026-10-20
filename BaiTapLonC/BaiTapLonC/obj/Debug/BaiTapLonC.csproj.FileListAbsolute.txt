@@ -1,0 +1,11 @@
+D:\Bài tập\BaiTapLonC\BaiTapLonC\bin\Debug\BaiTapLonC.exe.config
+D:\Bài tập\BaiTapLonC\BaiTapLonC\obj\Debug\BaiTapLonC.csprojResolveAssemblyReference.cache
+D:\Bài tập\BaiTapLonC\BaiTapLonC\obj\Debug\BaiTapLonC.FormC2.resources
+D:\Bài tập\BaiTapLonC\BaiTapLonC\obj\Debug\BaiTapLonC.Properties.Resources.resources
+D:\Bài tập\BaiTapLonC\BaiTapLonC\obj\Debug\BaiTapLonC.csproj.GenerateResource.Cache
+D:\Bài tập\BaiTapLonC\BaiTapLonC\bin\Debug\BaiTapLonC.exe
+D:\Bài tập\BaiTapLonC\BaiTapLonC\bin\Debug\BaiTapLonC.pdb
+D:\Bài tập\BaiTapLonC\BaiTapLonC\obj\Debug\BaiTapLonC.exe
+D:\Bài tập\BaiTapLonC\BaiTapLonC\obj\Debug\BaiTapLonC.pdb
+D:\Bài tập\BaiTapLonC\BaiTapLonC\obj\Debug\BaiTapLonC.FormC3.resources
+D:\Bài tập\BaiTapLonC\BaiTapLonC\obj\Debug\BaiTapLonC.MainForm.resources
